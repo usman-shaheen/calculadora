@@ -27,7 +27,8 @@ You can customize the styles in the "styles.css" file to match your preferred de
 ## GitHub Repository
 
 You can find the source code for this project on GitHub: [Calculadora](http://calculador.io/)
-Alternatively You can also find the source code for this project on GitHub: [12 weeks from today](https://weeksfromtoday.com/)
+
+Alternatively, You can also find the source code for this project on GitHub: [12 weeks from today](https://weeksfromtoday.com/)
 
 
 ## Credits
